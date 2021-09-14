@@ -2,7 +2,7 @@ package stackjava.cpm.helloworld;
 
 import java.util.Scanner;
 
-public class Hello {
+public class bai_tap_2_cua_buoi2_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
        int giaiThua = sc.nextInt();
