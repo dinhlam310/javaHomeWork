@@ -2,6 +2,9 @@ package stackjava.cpm.helloworld;
 
 import java.util.Scanner;
 
+// Bài 1: Nhập vào các cạnh của một tam giác, xác định xem đó có phải một tam giác không, nếu là tam giác thì xác định xem là có các tính chất vuông, cân, đều hay không?
+
+
 public class bài_tap_1_cua_buoi2_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
